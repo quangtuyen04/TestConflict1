@@ -7,7 +7,7 @@ fun main() {
     loop@ while (true) {
         println(
             """
-            |--- Student Management Menu ---
+            |--- Student Management Menu ---|
             |1. View all students
             |2. Add student(s)
             |3. Update student
